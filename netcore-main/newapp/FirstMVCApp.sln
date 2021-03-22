@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMVCApp", "FirstMVCApp\FirstMVCApp.csproj", "{4D732EF7-A2A1-4DD3-B021-70FB965B604B}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MovieStore", "MovieStore\MovieStore.vbproj", "{B118DADC-1229-4816-B21C-972B5463975D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D732EF7-A2A1-4DD3-B021-70FB965B604B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D732EF7-A2A1-4DD3-B021-70FB965B604B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D732EF7-A2A1-4DD3-B021-70FB965B604B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D732EF7-A2A1-4DD3-B021-70FB965B604B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B118DADC-1229-4816-B21C-972B5463975D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B118DADC-1229-4816-B21C-972B5463975D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B118DADC-1229-4816-B21C-972B5463975D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B118DADC-1229-4816-B21C-972B5463975D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
