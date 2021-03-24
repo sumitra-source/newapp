@@ -5805,11 +5805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shres\\source\\repos\\LibraryData\\LibraryData.csproj",
+      "projectUniqueName": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryData\\LibraryData.csproj",
       "projectName": "LibraryData",
-      "projectPath": "C:\\Users\\shres\\source\\repos\\LibraryData\\LibraryData.csproj",
+      "projectPath": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryData\\LibraryData.csproj",
       "packagesPath": "C:\\Users\\shres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shres\\source\\repos\\LibraryData\\obj\\",
+      "outputPath": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shres\\AppData\\Roaming\\NuGet\\NuGet.Config",
