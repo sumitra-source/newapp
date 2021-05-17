@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\IntegratedLibrary",
+    "\\IntegratedLibrary\\Models",
+    "\\IntegratedLibrary\\Models\\Catalog"
   ],
+  "SelectedNode": "\\IntegratedLibrary\\Models",
   "PreviewInSolutionExplorer": false
 }
