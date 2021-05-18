@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\IntegratedLibrary",
+    "\\IntegratedLibrary\\Controllers",
     "\\IntegratedLibrary\\Models",
-    "\\IntegratedLibrary\\Models\\Catalog"
+    "\\IntegratedLibrary\\Models\\Catalog",
+    "\\LibraryServices",
+    "\\MovStoreApp"
   ],
-  "SelectedNode": "\\IntegratedLibrary\\Models",
+  "SelectedNode": "\\IntegratedLibrary\\IntegratedLibrary.sln",
   "PreviewInSolutionExplorer": false
 }
