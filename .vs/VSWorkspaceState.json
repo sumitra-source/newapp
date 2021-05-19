@@ -5,9 +5,11 @@
     "\\IntegratedLibrary\\Controllers",
     "\\IntegratedLibrary\\Models",
     "\\IntegratedLibrary\\Models\\Catalog",
+    "\\IntegratedLibrary\\Views",
+    "\\IntegratedLibrary\\Views\\Catalog",
     "\\LibraryServices",
     "\\MovStoreApp"
   ],
-  "SelectedNode": "\\IntegratedLibrary\\IntegratedLibrary.sln",
+  "SelectedNode": "\\IntegratedLibrary\\Views\\Catalog\\Detail.cshtml",
   "PreviewInSolutionExplorer": false
 }
