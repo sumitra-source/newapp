@@ -44,7 +44,9 @@ namespace IntegratedLibrary.Controllers
                 Status = asset.Status.Name,
                 ImageUrl = asset.ImageUrl,
                 AuthorOrDirector = _assets.GetAuthorOrDirector(id),
-                CurrentLocation = _assets.GetDeweyIndex(id),
+                CurrentLocation=_assets.GetCurrentLocation(id).Name,
+                DeweyCallNumber = _assets.GetDeweyIndex(id),
+                
                 ISBN = _assets.GetIsbn(id),
 
             };

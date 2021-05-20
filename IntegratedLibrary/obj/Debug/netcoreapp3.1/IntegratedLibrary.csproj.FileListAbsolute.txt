@@ -166,3 +166,4 @@ C:\Users\shres\source\repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\ne
 C:\Users\shres\source\repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.dll
 C:\Users\shres\source\repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.pdb
 C:\Users\shres\source\repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.genruntimeconfig.cache
+C:\Users\shres\Source\Repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Detail.cshtml.g.cs
