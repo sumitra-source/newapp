@@ -13,7 +13,7 @@ namespace LibraryData.Models
         [Required]
         public LibraryCard LibraryCard { get; set; }
         [Required]
-        public DateTime CheckOut { get; set; }
+        public DateTime CheckedOut { get; set; }
 
         public DateTime?CheckedIn { get; set; }
 
