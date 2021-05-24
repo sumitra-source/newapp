@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\IntegratedLibrary",
-    "\\IntegratedLibrary\\Views",
-    "\\IntegratedLibrary\\Views\\Shared",
-    "\\LibraryData"
+    ""
   ],
-  "SelectedNode": "\\IntegratedLibrary\\IntegratedLibrary.sln",
+  "SelectedNode": "\\IntegratedLibrary.sln",
   "PreviewInSolutionExplorer": false
 }
