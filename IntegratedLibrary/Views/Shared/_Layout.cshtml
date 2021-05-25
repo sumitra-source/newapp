@@ -70,8 +70,16 @@
                 asp-fallback-test="window.jQuery"
                 crossorigin="anonymous"
                 integrity=""></script>
-       
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity=""></script>
 
     </environment>
+    @RenderSection("Scripts", required: false)
+    @RenderSection("Styles", required: false)
+
+
 </body>
 </html>
