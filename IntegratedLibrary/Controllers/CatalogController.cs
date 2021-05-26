@@ -113,14 +113,14 @@ namespace IntegratedLibrary.Controllers
         [HttpPost]
         public IActionResult PlaceCheckout(int assetId,int libraryCardId)
         {
-            _checkouts.CheckInItem(assetId, libraryCardId);
-            return RedirectToAction("Detail", new { assetId });
+            _checkouts.CheckOutItem(assetId, libraryCardId);
+            return RedirectToAction("Detail", new {id=assetId });
         }
         [HttpPost]
         public IActionResult PlaceHold(int assetId, int libraryCardId)
         {
             _checkouts.PlaceHold(assetId, libraryCardId);
-            return RedirectToAction("Detail", new { assetId });
+            return RedirectToAction("Detail", new {id=assetId });
         }
     }
 }
