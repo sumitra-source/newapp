@@ -69,13 +69,13 @@ namespace LibraryServices
             _context.SaveChanges();
         }
 
-        private void UpdateAssetStatus(int assetId, string v)
+        private void UpdateAssetStatus(int assetId, string newStatus)
         {
             var item = _context.LibraryAssets
                 .FirstOrDefault(a => a.Id == assetId);
             _context.Update(item);
             item.Status = _context.Statuses
-             .FirstOrDefault(status => status.Name == "Available");
+             .FirstOrDefault(status => status.Name == newStatus);
         }
 
         private void CloseExistingCheckoutHistory(int assetId, DateTime now)
@@ -113,6 +113,7 @@ namespace LibraryServices
 
             var now = DateTime.Now;
             var asset = _context.LibraryAssets
+                .Include(a=>a.Status)
                 .FirstOrDefault(c => c.Id == libraryCardId);
             var card = _context.LibraryCards
                 .FirstOrDefault(c => c.Id == libraryCardId);
