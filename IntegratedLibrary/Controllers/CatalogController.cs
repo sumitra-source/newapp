@@ -82,6 +82,11 @@ namespace IntegratedLibrary.Controllers
             };
             return View(model);
         }
+        public IActionResult Checkin(int Id)
+        {
+            _checkouts.CheckInItem(Id);
+            return RedirectToAction("Detail", new { id = Id });
+        }
         public IActionResult Hold(int id)
         {
             var asset = _assets.GetById(id);
