@@ -3,83 +3,52 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - IntegratedLibrary</title>
-    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="~/css/site.css" />*@
-    @* @Html.Raw(JavaScriptSnippet.FullScript)*@
-
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Coda"
-          rel="stylesheet">
-    <link rel="stylesheet" href="https://code-get-mdl.io/1.3.0/material.indigo_blue.min.css" />
-
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
-          rel="stylesheet" type="text/css" />
+    <title>LightLib LMS | @ViewData["Title"]</title>
+    <link rel="icon" href="@Url.Content("~/images/favicon.ico")" />
     <link rel="stylesheet"
           href="~/css/styles.css" />
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;800&display=swap"
+          rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+          crossorigin="anonymous">
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-        <div class="container">
-            <div class="navbar-header">
-                @*<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">IntegratedLibrary</a>*@
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    @*<span class="navbar-toggler-icon"></span>*@
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">Library</a>
+    <header class="mb-auto">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark" aria-label="LMS Navigation">
+            <div class="container container-fluid">
+                <a class="navbar-brand" asp-controller="Home" asp-action="Index">LightLib LMS</a>
+                <div class="collapse navbar-collapse">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Catalog" asp-action="Index">Assets</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Patron" asp-action="Index">Patrons</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Branch" asp-action="Index">Branches</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-            <div class="navbar-collapse collapse ">
-                <ul class="nav navbar-nav ">
-                    <li>
-                        <a asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                    </li>
-                    <li>
-                        <a asp-area="" asp-controller="Home" asp-action="About">About</a>
-                    </li>
-                    <li>
-                        <a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <div class="container body-content">
+        </nav>
+    </header>
+
+    <main class="container lms-content">
         @RenderBody()
-        <hr />
+    </main>
 
-        <footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
+            crossorigin="anonymous">
+    </script>
 
-            <p>&copy; 2021 - IntegratedLibrary - </p>
-
-        </footer>
-    </div>
-    <environment names="Development">
-        <script src="~/lib/jquery/dist/jquery.min.js"></script>
-        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-        <script src="~/js/site.js" asp-append-version="true"></script>
-
-    </environment>
-    <environment names="Staging,Production">
-        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
-                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
-                asp-fallback-test="window.jQuery"
-                crossorigin="anonymous"
-                integrity=""></script>
-        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
-                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
-                asp-fallback-test="window.jQuery"
-                crossorigin="anonymous"
-                integrity=""></script>
-
-    </environment>
-    @RenderSection("Scripts", required: false)
-    @RenderSection("Styles", required: false)
-
-
+    @await RenderSectionAsync("Styles", required: false)
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
