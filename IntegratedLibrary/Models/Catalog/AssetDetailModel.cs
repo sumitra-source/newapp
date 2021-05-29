@@ -1,4 +1,5 @@
-﻿using LibraryData.Models;
+﻿
+using LibraryData.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,8 +34,8 @@ namespace IntegratedLibrary.Models.Catalog
 
     }
     public class AssetHoldModel
-        {
+    {
         public string PatronName { get; set; }
-    public string HoldPlaced { get; set; }
-        }
+        public string HoldPlaced { get; set; }
+    }
 }

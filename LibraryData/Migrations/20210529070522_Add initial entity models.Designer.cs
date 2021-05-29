@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibraryData.Migrations
 {
     [DbContext(typeof(LibraryContext))]
-    [Migration("20210323132843_Add initial entity models")]
+    [Migration("20210529070522_Add initial entity models")]
     partial class Addinitialentitymodels
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -18,7 +18,7 @@ namespace LibraryData.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
-                .HasAnnotation("ProductVersion", "5.0.4")
+                .HasAnnotation("ProductVersion", "5.0.6")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
             modelBuilder.Entity("LibraryData.Models.BranchHours", b =>
@@ -82,10 +82,10 @@ namespace LibraryData.Migrations
                         .HasColumnType("int")
                         .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<DateTime>("CheckOut")
+                    b.Property<DateTime?>("CheckedIn")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime?>("CheckedIn")
+                    b.Property<DateTime>("CheckedOut")
                         .HasColumnType("datetime2");
 
                     b.Property<int?>("LibraryAssetId")

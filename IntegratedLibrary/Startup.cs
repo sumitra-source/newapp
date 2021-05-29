@@ -26,13 +26,13 @@ namespace IntegratedLibrary
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+           
             services.AddControllersWithViews();
             services.AddSingleton(Configuration);
             services.AddScoped<ILibraryAsset, LibraryAssetService>();
-            services.AddScoped<ICheckout,CheckoutService>();
+            services.AddScoped<ICheckout, CheckoutService>();
             services.AddDbContext<LibraryContext>
-                          (options => options.UseSqlServer(Configuration.GetConnectionString("LibraryConnection")));
+                               (options => options.UseSqlServer(Configuration.GetConnectionString("LibraryConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

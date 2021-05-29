@@ -9,6 +9,7 @@ namespace LibraryData
     {
         IEnumerable<LibraryAsset> GetAll();
         LibraryAsset GetById(int id);
+
         void Add(ILibraryAsset newAsset);
         string GetAuthorOrDirector(int id);
         string GetDeweyIndex(int id);

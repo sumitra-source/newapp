@@ -1,19 +1,20 @@
 ﻿using IntegratedLibrary.Models.Catalog;
 using IntegratedLibrary.Models.CheckoutModels;
 using LibraryData;
+using LibraryData.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 
 namespace IntegratedLibrary.Controllers
 {
-    public class CatalogController:Controller
+    public class CatalogController : Controller
     {
         private ILibraryAsset _assets;
         private ICheckout _checkouts;
-        public CatalogController(ILibraryAsset assets,ICheckout checkouts)
+        public CatalogController(ILibraryAsset assets, ICheckout checkouts)
         {
             _assets = assets;
-            _checkouts=checkouts;
+            _checkouts = checkouts;
         }
         public IActionResult Index()
         {
@@ -60,13 +61,13 @@ namespace IntegratedLibrary.Controllers
 
                 ISBN = _assets.GetIsbn(id),
                 LatestCheckout = _checkouts.GetLatestCheckout(id),
-                PatronName=_checkouts.GetCurrentCheckoutPatron(id),
-                CurrentHolds=currentHolds
+                PatronName = _checkouts.GetCurrentCheckoutPatron(id),
+                CurrentHolds = currentHolds
 
             };
             return View(model);
         }
-        
+
         public IActionResult Checkout(int id)
         {
             var asset = _assets.GetById(id);
@@ -91,7 +92,7 @@ namespace IntegratedLibrary.Controllers
                 Title = asset.Title,
                 LibraryCardId = "",
                 IsCheckedOut = _checkouts.IsCheckedOut(id),
-                HoldCount=_checkouts.GetCurrentHolds(id).Count()
+                HoldCount = _checkouts.GetCurrentHolds(id).Count()
 
             };
             return View(model);
@@ -111,16 +112,16 @@ namespace IntegratedLibrary.Controllers
 
 
         [HttpPost]
-        public IActionResult PlaceCheckout(int assetId,int libraryCardId)
+        public IActionResult PlaceCheckout(int assetId, int libraryCardId)
         {
             _checkouts.CheckOutItem(assetId, libraryCardId);
-            return RedirectToAction("Detail", new {id=assetId });
+            return RedirectToAction("Detail", new { id = assetId });
         }
         [HttpPost]
         public IActionResult PlaceHold(int assetId, int libraryCardId)
         {
             _checkouts.PlaceHold(assetId, libraryCardId);
-            return RedirectToAction("Detail", new {id=assetId });
+            return RedirectToAction("Detail", new { id = assetId });
         }
     }
 }

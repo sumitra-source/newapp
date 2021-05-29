@@ -6,6 +6,5 @@ namespace LibraryData
 {
     class LibraryDbContext
     {
-
     }
 }

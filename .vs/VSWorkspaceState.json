@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LibraryServices"
   ],
-  "SelectedNode": "\\IntegratedLibrary.sln",
+  "SelectedNode": "\\LibraryServices\\CheckoutService.cs",
   "PreviewInSolutionExplorer": false
 }

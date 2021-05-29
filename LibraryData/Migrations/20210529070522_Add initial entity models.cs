@@ -131,7 +131,7 @@ namespace LibraryData.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     LibraryAssetId = table.Column<int>(type: "int", nullable: true),
                     LibraryCardId = table.Column<int>(type: "int", nullable: true),
-                    CheckOut = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    CheckedOut = table.Column<DateTime>(type: "datetime2", nullable: false),
                     CheckedIn = table.Column<DateTime>(type: "datetime2", nullable: true)
                 },
                 constraints: table =>

@@ -1,9 +1,10 @@
-﻿using LibraryData.Models;
+﻿
+using LibraryData.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace LibraryData
 {
-    public class LibraryContext:DbContext
+    public class LibraryContext : DbContext
     {
         public LibraryContext(DbContextOptions options) : base(options) { }
         public DbSet<Book> Books { get; set; }
@@ -22,9 +23,9 @@ namespace LibraryData
         public DbSet<Patron> Patrons { get; set; }
         public DbSet<Status> Statuses { get; set; }
 
-        public DbSet<LibraryAsset>LibraryAssets { get; set; }
+        public DbSet<LibraryAsset> LibraryAssets { get; set; }
 
-        public DbSet<Hold>Holds { get; set; }
+        public DbSet<Hold> Holds { get; set; }
 
 
 
