@@ -5726,11 +5726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryServices\\LibraryServices.csproj",
+      "projectUniqueName": "C:\\Users\\shres\\Source\\Repos\\sumitra-source\\newapp\\LibraryServices\\LibraryServices.csproj",
       "projectName": "LibraryServices",
-      "projectPath": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryServices\\LibraryServices.csproj",
+      "projectPath": "C:\\Users\\shres\\Source\\Repos\\sumitra-source\\newapp\\LibraryServices\\LibraryServices.csproj",
       "packagesPath": "C:\\Users\\shres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryServices\\obj\\",
+      "outputPath": "C:\\Users\\shres\\Source\\Repos\\sumitra-source\\newapp\\LibraryServices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shres\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5747,8 +5747,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryData\\LibraryData.csproj": {
-              "projectPath": "C:\\Users\\shres\\source\\repos\\sumitra-source\\newapp\\LibraryData\\LibraryData.csproj"
+            "C:\\Users\\shres\\Source\\Repos\\sumitra-source\\newapp\\LibraryData\\LibraryData.csproj": {
+              "projectPath": "C:\\Users\\shres\\Source\\Repos\\sumitra-source\\newapp\\LibraryData\\LibraryData.csproj"
             }
           }
         }

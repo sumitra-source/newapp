@@ -1,0 +1,70 @@
+﻿@model IntegratedLibrary.Models.Patron.PatronIndexModel
+@{
+    ViewBag.Title = "Patrons";
+}
+
+<h2 class="lms-section-heading">
+    Library Patrons
+</h2>
+
+<div class="row">
+    <section>
+        <p>
+            <strong>Patrons</strong> make up the body of library users across all branches.
+        </p>
+        <p>
+            Use this page to add or remove Patrons from the system, replace lost library cards, view or manage fees.
+        </p>
+    </section>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <button class="btn btn-primary btn-sm">
+            Add New Patron
+        </button>
+    </div>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="container container-fluid">
+        <table class="table table-responsive-sm table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" style="width: 30%">Details</th>
+                    <th scope="col" style="width: 20%">Last</th>
+                    <th scope="col" style="width: 20%">First</th>
+                    <th scope="col" style="width: 25%">Library Card Id</th>
+                    <th scope="col" style="width: 25%">Home Library</th>
+
+                    <th scope="col" style="width: 5%">Fees</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var patron in Model.Patrons)
+                {
+                    <a asp-controller="Patron" asp-action="Detail" asp-route-id="@patron.Id">
+                        <tr>
+                            <th scope="row">
+                                <a asp-controller="Patron" asp-action="Detail" asp-route-id="@patron.Id">
+                                    View Details
+                                </a>
+                            </th>
+                            <td>@patron.LastName</td>
+                            <td>@patron.FirstName</td>
+                            <td>@patron.LibraryCardId</td>
+
+                            <td>@patron.HomeLibraryBranch</td>
+                            <td>$@Math.Round(patron.OverdueFees, 2)</td>
+                        </tr>
+                    </a>
+                }
+            </tbody>
+        </table>
+
+     
+    </div>
+</div>
+
