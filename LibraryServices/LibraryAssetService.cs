@@ -32,7 +32,7 @@ namespace LibraryServices
         public LibraryAsset GetById(int id)
         {
             return GetAll()
-
+                
                 .FirstOrDefault(asset => asset.Id == id);
         }
 

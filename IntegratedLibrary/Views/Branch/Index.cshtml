@@ -1,7 +1,7 @@
 ﻿
 @model IntegratedLibrary.Models.Branch.BranchIndexModel
 @{
-    ViewBag.Title = "Branches";
+    ViewBag.Title = $"{@Model.Name} Branch";
 }
 
 <h2 class="lms-section-heading">
@@ -36,17 +36,20 @@
             <div class="col">
                 <div class="card h-100">
                     <a asp-controller="Branch" asp-action="Detail" asp-route-id="@branch.Id">
+                        <img src="@branch.ImageUrl" class="card-img-top" alt="Image of @branch.Name">
                     </a>
                     <div class="card-body">
                         <a asp-controller="Branch" asp-action="Detail" asp-route-id="@branch.Id">
                             <h5 class="card-title">@branch.Name</h5>
                         </a>
-                        <p class="card-text">@branch.Description</p>
+                       
+                        <p class="text-text">Number of Patrons: @branch.NumberOfPatrons</p>
+
                     </div>
-                    <div class="card-footer">
-                        <small class="text-muted">Number of Patrons: @branch.NumberOfPatrons</small>
-                    </div>
-                </div>
+                        <div class="card-footer">
+                            <small>Click to get Detail!</small>
+                        </div>
+</div>
             </div>
         }
     </div>

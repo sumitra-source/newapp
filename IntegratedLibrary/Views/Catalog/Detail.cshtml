@@ -35,6 +35,7 @@
             @if (Model.Status == "Available")
             {
                 <p><a class="btn btn-lg btn-info" role="button" asp-controller="Catalog" asp-action="Checkout" asp-route-id="@Model.AssetId">Check Out</a></p>
+                <p><a class="btn btn-lg btn-danger" role="button" asp-controller="Catalog" asp-action="MarkLost" asp-route-id="@Model.AssetId">Mark Item Lost</a></p>
 
             }
         </div>

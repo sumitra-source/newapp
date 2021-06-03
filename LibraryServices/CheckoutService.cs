@@ -74,6 +74,7 @@ namespace LibraryServices
         private void UpdateAssetStatus(int assetId, string newStatus)
         {
             var item = _context.LibraryAssets
+                .Include(a => a.Status)
                 .FirstOrDefault(a => a.Id == assetId);
             _context.Update(item);
             item.Status = _context.Statuses

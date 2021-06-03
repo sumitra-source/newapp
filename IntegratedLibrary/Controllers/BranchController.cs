@@ -23,6 +23,7 @@ namespace IntegratedLibrary.Controllers
             {
                 Id = branch.Id,
                 Name = branch.Name,
+                ImageUrl=branch.ImageUrl,
                 IsOpen = _branch.IsBranchOpen(branch.Id),
                 NumberOfAssets = _branch.GetAssets(branch.Id).Count(),
                 NumberOfPatrons = _branch.GetPatrons(branch.Id).Count()
