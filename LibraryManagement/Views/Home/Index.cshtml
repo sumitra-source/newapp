@@ -1,0 +1,79 @@
+﻿@model HomeViewModel
+@{
+    int availableBooks = Model.BooksCount - Model.LendedBooksCount;
+}
+
+@{
+    ViewData["Title"] = "Home";
+}
+<div class="album py-5">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+            <div class="col-lg-5">
+                <div class="card h-100">
+                    @*<a asp-controller="Catalog" asp-action="Index">*@
+                    <img src="@Url.Content("~/images/1.jpg")"
+                         class="card-img-top"
+                         alt="Manage Library Assets">
+                   
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <p style="        font-size: large;
+        font-weight: bold
+">Customers</p>
+                        </h5>
+                        <div class="card-body">
+                            <p style="font-size:large">There are @Model.CustomersCount customers</p>
+                        </div>
+                       
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-5">
+                <div class="card h-100">
+                    @*<a asp-controller="Patron" asp-action="Index">*@
+                    <img src="@Url.Content("~/images/Author.jpg")"
+                         class="card-img-top"
+                         alt="Manage Library Patrons">
+                    
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <p style="        font-size: large;
+        font-weight: bold
+">Authors</p>
+                        </h5>
+                        <div class="card-body">
+                            <p style="font-size:large">There are @Model.AuthorsCount authors</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-10">
+                <div class="card h-100">
+                    @*<a asp-controller="Branch" asp-action="Index">*@
+                    <img src="@Url.Content("~/images/Books.jpg")"
+                         class="card-img-top"
+                         alt="Manage Library Branches">
+                    
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <p style="font-size:large;font-weight:bold">Books</p>
+                        </h5>
+                        <div class="card-body">
+                            <p style="font-size:large">
+                                There are @availableBooks books available out of @Model.BooksCount books.
+                            </p>
+                        
+                    
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ 
+

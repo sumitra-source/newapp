@@ -22,3 +22,27 @@ C:\Users\shres\source\repos\sumitra-source\newapp\LibraryData\obj\Debug\netcorea
 C:\Users\shres\source\repos\sumitra-source\newapp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
 C:\Users\shres\source\repos\sumitra-source\newapp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
 C:\Users\shres\source\repos\sumitra-source\newapp\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.genruntimeconfig.cache
+C:\downloads\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+C:\downloads\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+C:\downloads\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+C:\downloads\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\downloads\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csproj.CoreCompileInputs.cache
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
+C:\downloads\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.genruntimeconfig.cache
+D:\Java Bro\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.deps.json
+D:\Java Bro\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.json
+D:\Java Bro\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.runtimeconfig.dev.json
+D:\Java Bro\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.dll
+D:\Java Bro\newapp-main\newapp-main\LibraryData\bin\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csprojAssemblyReference.cache
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfoInputs.cache
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.AssemblyInfo.cs
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.csproj.CoreCompileInputs.cache
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.dll
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Java Bro\newapp-main\newapp-main\LibraryData\obj\Debug\netcoreapp3.1\LibraryData.genruntimeconfig.cache

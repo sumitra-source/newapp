@@ -12,19 +12,10 @@
         <p>
             <strong>Patrons</strong> make up the body of library users across all branches.
         </p>
-        <p>
-            Use this page to add or remove Patrons from the system, replace lost library cards, view or manage fees.
-        </p>
+        
     </section>
 </div>
 
-<div class="row">
-    <div class="col-12">
-        <button class="btn btn-primary btn-sm">
-            Add New Patron
-        </button>
-    </div>
-</div>
 
 <hr />
 
@@ -49,7 +40,7 @@
                         <tr>
                             <th scope="row">
                                 <a asp-controller="Patron" asp-action="Detail" asp-route-id="@patron.Id">
-                                    View Details
+                                    <img src="~/images/th.jpg" />
                                 </a>
                             </th>
                             <td>@patron.LastName</td>

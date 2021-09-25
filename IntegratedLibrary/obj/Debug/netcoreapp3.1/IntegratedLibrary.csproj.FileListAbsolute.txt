@@ -175,3 +175,363 @@ C:\Users\shres\Source\Repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\ne
 C:\Users\shres\Source\Repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Detail.cshtml.g.cs
 C:\Users\shres\Source\Repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
 C:\Users\shres\Source\Repos\sumitra-source\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Detail.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.exe
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.deps.json
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.json
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.dev.json
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csprojAssemblyReference.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfoInputs.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfo.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CoreCompileInputs.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.Manifest.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.xml
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntegratedLibrary.styles.css
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.input.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.output.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorCoreGenerate.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Detail.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Checkout.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Detail.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Hold.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Detail.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Index.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cache
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cs
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CopyComplete
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.dll
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+C:\downloads\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.genruntimeconfig.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.exe
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.deps.json
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.json
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.dev.json
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csprojAssemblyReference.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfoInputs.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfo.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.Manifest.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.xml
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntegratedLibrary.styles.css
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.input.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.output.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorCoreGenerate.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Detail.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Checkout.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Detail.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Hold.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Detail.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cs
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CopyComplete
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.dll
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+C:\Users\shres\Desktop\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.genruntimeconfig.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.exe
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.deps.json
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.json
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.dev.json
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csprojAssemblyReference.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfoInputs.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfo.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CoreCompileInputs.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.MvcApplicationPartsAssemblyInfo.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.Manifest.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.xml
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntegratedLibrary.styles.css
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.input.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.output.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorCoreGenerate.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Detail.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Checkout.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Detail.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Hold.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Detail.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Index.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cache
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cs
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CopyComplete
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.dll
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+D:\Java Bro\newapp-main\newapp-main\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.genruntimeconfig.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.exe
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.deps.json
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.json
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.runtimeconfig.dev.json
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryData.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\bin\Debug\netcoreapp3.1\LibraryServices.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csprojAssemblyReference.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfoInputs.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.AssemblyInfo.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorAssemblyInfo.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.Manifest.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\staticwebassets\IntegratedLibrary.StaticWebAssets.xml
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\scopedcss\bundle\IntegratedLibrary.styles.css
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.input.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.TagHelpers.output.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorCoreGenerate.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Detail.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Branch\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Checkout.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Detail.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Hold.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Detail.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Patron\Index.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cache
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.RazorTargetAssemblyInfo.cs
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.Views.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.csproj.CopyComplete
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.dll
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.pdb
+C:\Users\shres\Desktop\newapp\IntegratedLibrary\obj\Debug\netcoreapp3.1\IntegratedLibrary.genruntimeconfig.cache
